@@ -1,5 +1,3 @@
-# customer-churn
-customer churn ML classification model
 # Telco Customer Churn Prediction
 
 ## Overview
